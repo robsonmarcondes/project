@@ -11,6 +11,7 @@ Tudo que estiver dentro das 3 crazes irão estar dentro da linguagem R por exemp
 2+2
 ```
 
+caso haja um comentário selecione o e ative (control + shift + c) dentro ou fora da linguagem que ele deixa ele em forma de comentário
 
 ```{r, eval=FALSE}
 rmarkdown::render("main.Rmd", encoding = "UTF-8", output_dir = "../docs/")
