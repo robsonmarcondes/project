@@ -38,3 +38,29 @@ lm(weight ~ group) %T>%
   anova()
 ```
 
+
+
+
+exercício 2 - %<>% e %$%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dplyr - gramática de manipulação de dados
+
+
