@@ -44,23 +44,7 @@ lm(weight ~ group) %T>%
 exercício 2 - %<>% e %$%
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 dplyr - gramática de manipulação de dados
 
 
+exportando arquivos para github - aplicando diretório no terminal para o github
